@@ -1,3 +1,3 @@
 # testing-repozitory
 
-tekstowy-tekst-do-tak
+tekstowy-tekst-do-tak zmieniony!
