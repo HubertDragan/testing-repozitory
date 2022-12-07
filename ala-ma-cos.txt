@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ala ma kota!
+=======
+Ala ma WORLD!
+>>>>>>> parent of e0e4322 (modified files)
